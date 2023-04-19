@@ -43,7 +43,8 @@ SO THAT I can input my details and generate
 
 ## Example Image
 
-* Include Image HERE
+[Demo](./assets/video/demo.mov)
+
 
 ## 💡 Notes
 
