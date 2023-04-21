@@ -3,7 +3,7 @@
 
 [![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.net/about/)
 
-In this Homework assignment , Sample description
+In this Homework assignment , Sample Description
 
 ## Table of Contents
 
